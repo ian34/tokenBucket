@@ -1,4 +1,4 @@
-go-tokenBucket
+tokenBucket
 ==============
 
-A simple token bucket scheme for rate limiting
+A simple token bucket scheme for rate limiting in Go.
